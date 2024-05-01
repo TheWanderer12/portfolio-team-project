@@ -2,11 +2,35 @@ body {
     background-color: bisque;
 }
 
-
-
 .navbar {
     display: flex;
     justify-content: space-between;
+}
+
+.container {
+    display: flex;
+    border: 2px solid #ccc;
+
+}
+
+.Containers {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
 
 
+}
+
+.box {
+
+    height: 400px;
+    width: 23%;
+    background-color: white;
+    padding: 20px 0px 15px;
+    border: 5px solid;
+    margin-top: 15px;
+}
+
+.box 1 {
+    order: 999px;
 }
