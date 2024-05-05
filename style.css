@@ -1,3 +1,8 @@
+.Header_1 {
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
 body {
     background-color: bisque;
 }
@@ -7,11 +12,11 @@ body {
     justify-content: space-between;
 }
 
-.container {
+/* .container {
     display: flex;
     border: 2px solid #ccc;
 
-}
+} */
 
 .Containers {
     display: flex;
@@ -29,8 +34,29 @@ body {
     padding: 20px 0px 15px;
     border: 5px solid;
     margin-top: 15px;
+
 }
 
-.box 1 {
-    order: 999px;
+.box_1 {
+
+    height: 500px;
+    margin-top: 100px;
+}
+
+.box_2 {
+    height: 500px;
+    background-image: url(/Images/463e8ee7-ec07-428d-9b3d-75a6dae12ca4.JPG);
+    background-size: 240%;
+    background-position: center;
+    background-position-x: center;
+    background-repeat: no-repeat;
+}
+
+.box_3 {
+    height: 500px;
+    margin-top: 100px;
+}
+
+.box_4 {
+    height: 500px;
 }
