@@ -36,11 +36,11 @@ body {
 
 .box_2,
 .box_4 {
-    height: 500px;
+    height: 400px;
     width: 50%;
     /* Adjust font size for better readability */
     font-size: 30px;
-    background-image: url(/Images/Pic.png);
+    background-image: url(/Images/pic.jpg);
     background-size: 240%;
     background-position: center;
     background-position-x: center;
