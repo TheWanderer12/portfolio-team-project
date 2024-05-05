@@ -12,12 +12,6 @@ body {
     justify-content: space-between;
 }
 
-/* .container {
-    display: flex;
-    border: 2px solid #ccc;
-
-} */
-
 .Containers {
     display: flex;
     flex-wrap: wrap;

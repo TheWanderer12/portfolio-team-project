@@ -7,3 +7,48 @@ body {
     font-family: 'Times New Roman', Times, serif;
     font-size: 60px;
 }
+
+.Containers {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+
+
+}
+
+.box {
+
+    height: 400px;
+    width: 23%;
+    background-color: white;
+    padding: 20px 0px 15px;
+    border: 5px solid;
+    margin-top: 15px;
+
+}
+
+.box_1 {
+
+    height: 600px;
+    background-image: url(/Images/IMG_8365.jpg);
+    background-size: 240%;
+    background-position: center;
+    background-position-x: center;
+    background-repeat: no-repeat;
+    border-radius: 5%;
+    /* Makes the container oval-shaped */
+    overflow: hidden;
+}
+
+.box_2 {
+    height: 500px;
+    width: 50%;
+    background-image: url();
+    background-size: 240%;
+    background-position: center;
+    background-position-x: center;
+    background-repeat: no-repeat;
+    border-radius: 5%;
+    /* Makes the container oval-shaped */
+    overflow: hidden;
+}
