@@ -87,7 +87,102 @@ body {
     font-weight: 800;
     font-size: 20px;
     font-stretch: extra-condensed;
+    line-height: 45px;
+    color: black;
+
+}
+
+.box_6 p {
+    text-align: center;
+    text-decoration-line: underline;
+}
+
+.box_5 {
+
+    height: 600px;
+    background-image: url(/Images/download1.jpg);
+    background-size: 240%;
+    background-position: center;
+    background-position-x: center;
+    background-repeat: no-repeat;
+    border-radius: 5%;
+    /* Makes the container oval-shaped */
+    overflow: hidden;
+    background-size: 300px;
+}
+
+.box_6 {
+    height: 500px;
+    width: 50%;
+    background-image: url();
+    background-size: 240%;
+    background-position: center;
+    background-position-x: center;
+    background-repeat: no-repeat;
+    border-radius: 5%;
+    /* Makes the container oval-shaped */
+    overflow: hidden;
+    font-weight: 800;
+    font-size: 20px;
+    font-stretch: extra-condensed;
     line-height: 55px;
     color: black;
 
+}
+
+.box_7 {
+
+    height: 600px;
+    background-image: url(/Images/download2.jpg);
+    background-size: 240%;
+    background-position: center;
+    background-position-x: center;
+    background-repeat: no-repeat;
+    border-radius: 5%;
+    /* Makes the container oval-shaped */
+    overflow: hidden;
+    background-size: 300px;
+}
+
+.box_8 {
+    height: 500px;
+    width: 50%;
+    background-image: url();
+    background-size: 240%;
+    background-position: center;
+    background-position-x: center;
+    background-repeat: no-repeat;
+    border-radius: 5%;
+    /* Makes the container oval-shaped */
+    overflow: hidden;
+    font-weight: 800;
+    font-size: 20px;
+    font-stretch: extra-condensed;
+    color: black;
+
+
+}
+
+.box_6 {
+    ul {
+        list-style-type: square;
+    }
+
+}
+
+.box_8 {
+    ul {
+        list-style-type: square;
+    }
+
+}
+
+.box_8 p {
+    text-align: center;
+    text-decoration-line: underline;
+}
+
+h4 {
+    font-weight: 800;
+    font-size: 20px;
 }
