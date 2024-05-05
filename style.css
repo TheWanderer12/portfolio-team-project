@@ -41,6 +41,15 @@ body {
 
     height: 500px;
     margin-top: 100px;
+    height: 500px;
+    background-image: url();
+    background-size: 240%;
+    background-position: center;
+    background-position-x: center;
+    background-repeat: no-repeat;
+    border-radius: 10%;
+    /* Makes the container oval-shaped */
+    overflow: hidden;
 }
 
 .box_2 {
@@ -50,13 +59,34 @@ body {
     background-position: center;
     background-position-x: center;
     background-repeat: no-repeat;
+    border-radius: 10%;
+    /* Makes the container oval-shaped */
+    overflow: hidden;
 }
 
 .box_3 {
     height: 500px;
     margin-top: 100px;
+    height: 500px;
+    background-image: url();
+    background-size: 240%;
+    background-position: center;
+    background-position-x: center;
+    background-repeat: no-repeat;
+    border-radius: 10%;
+    /* Makes the container oval-shaped */
+    overflow: hidden;
 }
 
 .box_4 {
     height: 500px;
+    height: 500px;
+    background-image: url();
+    background-size: 240%;
+    background-position: center;
+    background-position-x: center;
+    background-repeat: no-repeat;
+    border-radius: 10%;
+    /* Makes the container oval-shaped */
+    overflow: hidden;
 }
