@@ -98,7 +98,7 @@ body {
 .box_5 {
 
   height: 600px;
-  background-image: url(/akash_folder/akash_images/project.jpeg);
+  background-image: url ();
   background-size: 240%;
   background-position: center;
   background-position-x: center;
@@ -131,7 +131,7 @@ body {
 .box_7 {
 
   height: 600px;
-  background-image: url(/Images/projects.jpg);
+  background-image: url(/akash_folder/akash_images/project.jpeg);
   background-size: 240%;
   background-position: center;
   background-position-x: center;
