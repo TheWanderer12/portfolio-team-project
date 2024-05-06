@@ -1,6 +1,10 @@
 body {
   background-color: skyblue;
 }
+.navbar {
+  display: flex;
+  justify-content: space-between;
+}
 
 .title {
   text-align: center;
@@ -25,12 +29,13 @@ body {
 
 .box_1 {
   height: 600px;
-  background-image: url(ahmet_folder\ahmet_images\ahmet_dark_bg.JPG);
+  background-image: url(/ahmet_folder/ahmet_images/ahmet_dark_bg.JPG);
   background-size: 240%;
   background-position: center;
   background-position-x: center;
   background-repeat: no-repeat;
   border-radius: 5%;
+  /* Makes the container oval-shaped */
   overflow: hidden;
 }
 
@@ -40,7 +45,7 @@ body {
   width: 50%;
   /* Adjust font size for better readability */
   font-size: 30px;
-  background-image: url(/Images/pic.jpg);
+  background-image: url(/Images/white_bg.jpg);
   background-size: 240%;
   background-position: center;
   background-position-x: center;
@@ -55,7 +60,7 @@ body {
 
 .box_3 {
   height: 400px;
-  background-image: url(/Images/dev_ops.jpg);
+  background-image: url(/ahmet_folder/ahmet_images/dev_ops.jpg);
   background-size: 240%;
   background-position: center;
   background-position-x: center;
@@ -63,4 +68,118 @@ body {
   border-radius: 5%;
   overflow: hidden;
   background-size: 300px;
+}
+
+.box_4 {
+  height: 500px;
+  width: 50%;
+  background-image: url();
+  background-size: 240%;
+  background-position: center;
+  background-position-x: center;
+  background-repeat: no-repeat;
+  border-radius: 5%;
+  /* Makes the container oval-shaped */
+  overflow: hidden;
+  font-weight: 800;
+  font-size: 20px;
+  font-stretch: extra-condensed;
+  line-height: 45px;
+  color: black;
+
+}
+
+.box_6 p {
+  text-align: center;
+  text-decoration-line: underline;
+}
+
+.box_5 {
+
+  height: 600px;
+  background-image: url(/Images/coursera_cert.jpg);
+  background-size: 240%;
+  background-position: center;
+  background-position-x: center;
+  background-repeat: no-repeat;
+  border-radius: 5%;
+  /* Makes the container oval-shaped */
+  overflow: hidden;
+  background-size: 300px;
+}
+
+.box_6 {
+  height: 500px;
+  width: 50%;
+  background-image: url();
+  background-size: 240%;
+  background-position: center;
+  background-position-x: center;
+  background-repeat: no-repeat;
+  border-radius: 5%;
+  /* Makes the container oval-shaped */
+  overflow: hidden;
+  font-weight: 800;
+  font-size: 20px;
+  font-stretch: extra-condensed;
+  line-height: 55px;
+  color: black;
+
+}
+
+.box_7 {
+
+  height: 600px;
+  background-image: url(/Images/projects.jpg);
+  background-size: 240%;
+  background-position: center;
+  background-position-x: center;
+  background-repeat: no-repeat;
+  border-radius: 5%;
+  /* Makes the container oval-shaped */
+  overflow: hidden;
+  background-size: 300px;
+}
+
+.box_8 {
+  height: 500px;
+  width: 50%;
+  background-image: url();
+  background-size: 240%;
+  background-position: center;
+  background-position-x: center;
+  background-repeat: no-repeat;
+  border-radius: 5%;
+  /* Makes the container oval-shaped */
+  overflow: hidden;
+  font-weight: 800;
+  font-size: 20px;
+  font-stretch: extra-condensed;
+  color: black;
+
+
+}
+
+.box_6 {
+  ul {
+    list-style-type: square;
+  }
+
+}
+
+.box_8 {
+  ul {
+    list-style-type: square;
+  }
+
+}
+
+.box_8 p {
+  text-align: center;
+  text-decoration-line: underline;
+}
+
+h4 {
+  font-weight: 800;
+  font-size: 20px;
 }
