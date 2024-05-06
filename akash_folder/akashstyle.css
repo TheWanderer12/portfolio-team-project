@@ -1,7 +1,10 @@
 body {
-  background-color: bisque;
+  background-color: chocolate;
 }
-
+.navbar {
+  display: flex;
+  justify-content: space-between;
+}
 .title {
   text-align: center;
   font-family: 'Times New Roman', Times, serif;
@@ -25,8 +28,8 @@ body {
 
 .box_1 {
   height: 600px;
-  background-image: url(/akash_folder/akash_images/akash2.jpeg);
-  background-size: 240%;
+  background-image: url(/akash_folder/akash_images/akash2.jpg);
+  background-size: 200%;
   background-position: center;
   background-position-x: center;
   background-repeat: no-repeat;
