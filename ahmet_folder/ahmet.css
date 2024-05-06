@@ -19,7 +19,7 @@ body {
 }
 
 .box {
-  height: 400px;
+  height: 500px;
   width: 23%;
   background-color: white;
   padding: 20px 0px 15px;
@@ -41,7 +41,7 @@ body {
 
 .box_2,
 .box_4 {
-  height: 400px;
+  height: 500px;
   width: 50%;
   /* Adjust font size for better readability */
   font-size: 30px;
