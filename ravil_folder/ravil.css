@@ -1,0 +1,132 @@
+body {
+  background-color: rgb(84, 244, 121);
+}
+
+.title {
+  text-align: center;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 60px;
+}
+
+.Containers {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
+
+.box {
+  height: 400px;
+  width: 23%;
+  background-color: white;
+  border: 5px solid;
+  margin-top: 15px;
+}
+
+.box_1 {
+  width: 25%;
+  height: 500px;
+  background-image: url(ravil_images/ravil_sitting.jpg);
+  background-size: 153%;
+  /* adjusting this took way too long, but i got it */
+  background-position: 90% center;
+  background-repeat: no-repeat;
+  border-radius: 5%;
+  /* Makes the container oval-shaped */
+  overflow: hidden;
+}
+
+.box_2 {
+  height: 500px;
+  width: 50%;
+  background-image: url();
+  background-size: 240%;
+  background-position: center;
+  background-position-x: center;
+  background-repeat: no-repeat;
+  border-radius: 5%;
+  /* Makes the container oval-shaped */
+  overflow: hidden;
+  font-weight: 800;
+  font-size: 20px;
+  font-stretch: extra-condensed;
+  line-height: 55px;
+  color: black;
+
+}
+
+.box_3 {
+  height: 400px;
+  width: 35%;
+  /* adjusting size of the image */
+  object-fit: cover;
+  border-radius: 5%;
+  /* Makes the container oval-shaped */
+  overflow: hidden;
+}
+
+.box_4 {
+  height: 500px;
+  width: 50%;
+  background-image: url();
+  background-size: 240%;
+  background-position: center;
+  background-position-x: center;
+  background-repeat: no-repeat;
+  border-radius: 5%;
+  /* Makes the container oval-shaped */
+  overflow: hidden;
+  font-weight: 800;
+  font-size: 20px;
+  font-stretch: extra-condensed;
+  line-height: 45px;
+  color: black;
+
+}
+
+.box_5 {
+  width: 35%;
+  height: 380px;
+  background-image: url(ravil_images/snake.png);
+  background-size: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  border-radius: 5%;
+  /* Makes the container oval-shaped */
+  overflow: hidden;
+}
+
+.box_6 {
+  height: 500px;
+  width: 50%;
+  background-image: url();
+  background-size: 240%;
+  background-position: center;
+  background-position-x: center;
+  background-repeat: no-repeat;
+  border-radius: 5%;
+  /* Makes the container oval-shaped */
+  overflow: hidden;
+  font-weight: 800;
+  font-size: 20px;
+  font-stretch: extra-condensed;
+  color: black;
+
+
+}
+
+.box_6 {
+  ul {
+    list-style-type: square;
+  }
+
+}
+
+.box_6 p {
+  text-align: center;
+  text-decoration-line: underline;
+}
+
+h4 {
+  font-weight: 800;
+  font-size: 20px;
+}
