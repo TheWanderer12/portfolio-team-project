@@ -4,7 +4,7 @@ body {
 
 .title {
   text-align: center;
-  font-family: 'Times New Roman', Times, serif;
+  font-family: "Times New Roman", Times, serif;
   font-size: 60px;
 }
 
@@ -30,10 +30,10 @@ body {
 .box_1 {
   width: 25%;
   height: 500px;
-  background-image: url(ravil_images/ravil_sitting.jpg);
+  background-image: url(ravil_images/Profilepicture.jpg);
   background-size: 153%;
   /* adjusting this took way too long, but i got it */
-  background-position: 90% center;
+  background-position: 50% center;
   background-repeat: no-repeat;
   border-radius: 5%;
   overflow: hidden;
@@ -53,7 +53,7 @@ body {
   font-size: 20px;
   font-stretch: extra-condensed;
   line-height: 55px;
-  color: black
+  color: black;
 }
 
 .box_3 {
@@ -80,7 +80,6 @@ body {
   font-stretch: extra-condensed;
   line-height: 45px;
   color: black;
-
 }
 
 .box_5 {
